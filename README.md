@@ -1,5 +1,5 @@
 # Hotel-Booking
-Study DB project (2024)
+\textbf{Study DB project (2024)}
 
 Определение сущностей:
 •	guest – человек делающий бронирование или тот, кто остановится в отеле
